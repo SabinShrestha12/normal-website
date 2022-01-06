@@ -1,0 +1,9 @@
+div.carousel-item img
+{
+	width: 75% !important;
+	margin: 0 auto !important;
+}
+div.carousel-item img.second
+{
+	height: 600px;
+}

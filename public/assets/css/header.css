@@ -1,0 +1,8 @@
+nav form.d-flex 
+{
+	margin-bottom:0 !important;
+}
+.navbar ul.navbar-nav li.nav-item:hover ul.dropdown-menu li
+{
+	display: block !important;
+}
